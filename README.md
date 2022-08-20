@@ -6,7 +6,7 @@ Fast and customizable (for developers) simple WebBrowser app for USPFLM
 ### Requirements:
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
 - **Disk Space:** 110 MB
-- **Minimum Ram: 512 MB**
+- **Minimum Ram:** 512 MB
 
 ### Installation
 1. Download and Install [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)

@@ -1,5 +1,7 @@
 ### Unofficial USPFLM Browser App for **Windows 7, 8, 10, and 11**
-- Fast and customizable (for developers) simple WebBrowser app for USPFLM
+Fast and customizable (for developers) simple WebBrowser app for USPFLM
+
+- [Download Links/Releases](https://github.com/Charlzk05/USPFLM-Browser-App/releases)
 
 ### Requirements:
 - [.NET Framework 4.8](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48)
